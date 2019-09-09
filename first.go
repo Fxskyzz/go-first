@@ -1,3 +1,5 @@
+// 入门打印hello，go
+
 package main
 
 import "fmt"
